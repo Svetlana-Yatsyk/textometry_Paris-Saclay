@@ -18,9 +18,18 @@ Les étapes à suivre selon votre système d'exploitation :
 R est un langage de programmation. Pour faciliter son utilisation, nous aurons besoin d'un environnement de développement intégré (IDE), [RStudio](https://posit.co/download/rstudio-desktop/). Il faut le télécharger et installer aussi.
 
 
-
 Plan de secours : [Posit.Cloud](https://posit.cloud/) (il permet de travailler dans le nuage dans votre navigateur web).
 
+## Plan du cours
+
+-   Session 1 : Introduction à la textométrie et à R. Découverte d'interface de RStudio. Principes de base
+-   Session 2 : Principes de base-2. Manipulation de textes avec R
+-   Session 3 : Le traitement automatique du langage naturel (TAL / NLP)
+-   Session 4 : Analyse de fréquence
+-   Session 5 : Analyse de sentiments
+-   Session 6 : Topic modeling
+-   Session 7 : Analyse en composantes principales (PCA)
+-   Session 8 : Stylométrie
 
 ## Références  et remerciements
 Les ressources suivantes m'ont été d'une grande utilité dans la préparation de ce cours :
