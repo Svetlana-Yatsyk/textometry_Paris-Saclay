@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 -   En développement et amélioration continus (grace à la communauté
     mondiale d'utilisateurs et de développeurs).
 
-R est conçu spécifiquement **pour le traitement des données statistiques** et la création de graphiques. Il a vu le jour en 1993, créé par Ihaka et Gentleman au département de statistiques de l'université d'Auckland (Nouvelle Zealand), développé par des statisticiens, pour des statisticiens. Par conséquent, il s'avère particulièrement adapté à l'analyse des données, à l'informatique statistique et à l'apprentissage automatique. En raison de ces atouts, il jouit d'une grande popularité dans le monde scientifique.
+R est conçu spécifiquement **pour le traitement des données statistiques** et la création de graphiques. Il a vu le jour en 1993, créé par **R**oss Ihaka et **R**obert Gentleman au département de statistiques de l'université d'Auckland (Nouvelle Zealand), développé par des statisticiens, pour des statisticiens. Par conséquent, il s'avère particulièrement adapté à l'analyse des données, à l'informatique statistique et à l'apprentissage automatique. En raison de ces atouts, il jouit d'une grande popularité dans le monde scientifique.
 
 ## Qu'est-ce que RStudio ?
 
