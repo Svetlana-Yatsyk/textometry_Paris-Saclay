@@ -10,9 +10,7 @@ Les étapes à suivre selon votre système d'exploitation :
     * macOS >= 11 – installer le fichier *.pkg avec la dernière version ;
     * macOS <11 – descendre la page, chercher la version correspondante ;
     * macOS Ventura – de plus, installer [XQuartz](https://www.xquartz.org/) ;
-* Sous Linux
-   * soit [télécharger ici](https://cran.rstudio.com/bin/linux/) ;
-   * soit ```sudo apt-get install r-cran-base```.
+* Sous Linux, ```sudo apt-get install r-cran-base```.
 
 
 R est un langage de programmation. Pour faciliter son utilisation, nous aurons besoin d'un environnement de développement intégré (IDE), [RStudio](https://posit.co/download/rstudio-desktop/). Il faut le télécharger et installer aussi.
